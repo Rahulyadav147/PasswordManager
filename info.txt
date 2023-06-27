@@ -1,0 +1,5 @@
+www.abc.com,rahul,rahul
+www.def.com,apple,apple
+www.ghi.com,sachin,sachin
+www.jkl.com,shubham,shubham
+www.xyz.com,alok,alok
